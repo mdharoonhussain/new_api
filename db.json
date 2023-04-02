@@ -6,10 +6,7 @@
         "desc":"FB Booty Round 3: 4 Weeks of Fun and Intense Lower Body Training",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"42 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 11.99,
-          "currency": "USD"
-        }
+        "price": 11.99
       },
   
     {
@@ -18,10 +15,7 @@
         "desc":"FB Jumpstart - 4 Weeks of Lifting, HIIT, Cardio, and Stretching",
         "title":"Progressive Workout Length and Intensity",
         "duration":"34 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 11.99,
-          "currency": "USD"
-        }
+        "price": 11.99
       },
       {
         "id":3,
@@ -29,10 +23,7 @@
         "desc":"4 Week FB Strong: Round 3 - Build Muscle, Increase Strength, and Feel Great",
         "title":" You Choose: 35 Minutes or 50 Minutes a Day",
         "duration":"40 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 11.99,
-          "currency": "USD"
-        }
+        "price": 11.99
       },
       {
         "id":4,
@@ -40,10 +31,7 @@
         "desc":"FB 3-Day: 3 Workouts Per Week for 2 Weeks",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"44 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 7.99,
-          "currency": "USD"
-        }
+        "price": 7.99
       },
       {
         "id":5,
@@ -51,10 +39,7 @@
         "desc":"FB Pilates Immersion: 2-Week Pilates Challenge for Foundational Strength and Stability",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"37 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 7.99,
-          "currency": "USD"
-        }
+        "price": 7.99
       },
       {
         "id":6,
@@ -62,10 +47,7 @@
         "desc":"FB Just Your Body: 2-Week No Equipment Challenge",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"32 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 8.99,
-          "currency": "USD"
-        }
+        "price": 8.99
       },
       {
         "id":7,
@@ -73,10 +55,7 @@
         "desc":"FB Reboot: 8-Week Program to Jumpstart Your Fitness Routine",
         "title":"Beginner-Friendly Workouts to Build Strength, Confidence, and Consistency",
         "duration":"35 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 19.99,
-          "currency": "USD"
-        }
+        "price": 19.99
       },
       {
         "id":8,
@@ -84,10 +63,7 @@
         "desc":"4-Week FB Benchmark Program",
         "title":" Total Body Strength and Conditioning",
         "duration":"32 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 11.99,
-          "currency": "USD"
-        }
+        "price": 11.99
       },
       {
         "id":9,
@@ -95,10 +71,7 @@
         "desc":"4 Week FB Fit30 - All Exclusive Workout Videos: 35 or 45 Minutes a Day ",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"40 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 10.99,
-          "currency": "USD"
-        }
+        "price": 10.99
       },
       {
         "id":10,
@@ -106,10 +79,7 @@
         "desc":"4 Week FB Strong: Round 2 - Build Muscle, Increase Strength and Feel Great",
         "title":"Build Strength in Your Glutes, Quads, and Hamstrings",
         "duration":"39 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 12.99,
-          "currency": "USD"
-        }
+        "price": 12.99
       },
       {
         "id":11,
@@ -117,10 +87,7 @@
         "desc":"FB Fit - Round 3: Intense 4 Week Workout Program",
         "title":"Total Body Strength and Conditioning",
         "duration":"45 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 13.99,
-          "currency": "USD"
-        }
+        "price": 13.99
       },
       {
         "id":12,
@@ -128,10 +95,7 @@
         "desc":"4 Week FB Complete: A Customizable Workout Program for Beginner, Intermediate, and Advanced",
         "title":"Total Body Strength and Conditioning",
         "duration":"42 Min/Day • 4 Weeks",
-        "price": {
-          "amount": 12.99,
-          "currency": "USD"
-        }
+        "price": 12.99
       }
     ]
   }
